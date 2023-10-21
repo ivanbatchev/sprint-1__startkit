@@ -198,6 +198,17 @@
 }
 
 /* video */
+.video__iframes {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  column-gap: 20px;
+}
+
+.video__iframe {
+  width: 515px;
+  height: 316px;
+}
 
 /* table */
 .digits {
